@@ -1,3 +1,5 @@
+package atry
+
 import org.apache.spark.{SparkConf, SparkContext}
 
 object TestSpark {
